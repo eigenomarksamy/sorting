@@ -1,0 +1,9 @@
+# ninja log v5
+22	1336	6956660476315295	CMakeFiles/algo_ds.dir/src/sort/tion_sort.cpp.obj	53735322684f04bd
+33	1368	6956660476627013	CMakeFiles/algo_ds.dir/src/sort/bubble_sort.cpp.obj	fee026630e4d2fad
+3	858	6956626591685044	CMakeFiles/algo_ds.dir/src/sort/quad_sort.cpp.obj	32931a94e128ffe6
+11	1453	6956660477511897	CMakeFiles/algo_ds.dir/src/sort/heap_sort.cpp.obj	8b220392fd3feeee
+17	1412	6956660477072287	CMakeFiles/algo_ds.dir/src/sort/quick_sort.cpp.obj	c46e4aadd5a543fc
+4	871	6956700514866582	CMakeFiles/algo_ds.dir/src/main.cpp.obj	7e219242e58ddf0e
+4	1396	6956660476906225	CMakeFiles/algo_ds.dir/src/sort/merge_sort.cpp.obj	f7e92e44d348d211
+872	1122	6956700517317565	algo_ds.exe	96912c276863e4d
